@@ -1,3 +1,5 @@
-print('test')
+currency_exchange = [[1, 2, 3],
+                     [4, 5, 6],
+                     [7, 8, 9]]
 
-print('another test')
+print(currency_exchange[1][2])
